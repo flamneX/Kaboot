@@ -1,0 +1,40 @@
+## Definition
+An algorithm is a step-by-step procedure or formula for solving a problem.
+
+## Characteristics
+1. **Input**: Takes zero or more inputs.
+2. **Output**: Produces at least one output.
+3. **Definiteness**: Each step is clearly defined.
+4. **Finiteness**: Must terminate after a finite number of steps.
+5. **Effectiveness**: Each step is basic enough to be carried out.
+
+## Types of Algorithms
+1. **Divide and Conquer**: Breaks a problem into smaller sub-problems, solves them, and combines their results.
+    - Example: Merge Sort, Quick Sort
+2. **Dynamic Programming**: Solves problems by breaking them into overlapping sub-problems and storing results.
+    - Example: Fibonacci Sequence, Knapsack Problem
+3. **Greedy Algorithms**: Makes the locally optimal choice at each step.
+    - Example: Dijkstra's Algorithm, Kruskal's Algorithm
+4. **Backtracking**: Explores all possibilities by building a solution incrementally.
+    - Example: N-Queens Problem, Sudoku Solver
+5. **Brute Force**: Tries all possible solutions to find the correct one.
+    - Example: String Matching, Traveling Salesman Problem
+
+## Common Algorithmic Concepts
+- **Recursion**: A function calling itself to solve smaller instances of a problem.
+- **Iteration**: Repeating a set of instructions until a condition is met.
+- **Sorting**: Arranging data in a specific order (e.g., Bubble Sort, Quick Sort).
+- **Searching**: Finding an element in a data structure (e.g., Binary Search, Linear Search).
+
+## Applications
+- Data processing
+- Artificial intelligence
+- Cryptography
+- Network routing
+- Optimization problems
+
+## Best Practices
+- Understand the problem thoroughly.
+- Choose the right algorithm for the task.
+- Optimize for time and space complexity.
+- Test with edge cases.

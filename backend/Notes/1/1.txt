@@ -1,0 +1,39 @@
+## What are Data Structures?
+Data structures are ways to organize and store data in a computer so that it can be accessed and modified efficiently.
+
+## Types of Data Structures
+1. **Linear Data Structures**:
+    - Arrays
+    - Linked Lists
+    - Stacks
+    - Queues
+
+2. **Non-Linear Data Structures**:
+    - Trees
+    - Graphs
+
+3. **Hash-based Data Structures**:
+    - Hash Tables
+    - Hash Maps
+    - Sets
+
+## Common Operations
+- Insertion
+- Deletion
+- Traversal
+- Searching
+- Sorting
+
+## Applications
+- Arrays: Used in dynamic programming and matrix operations.
+- Linked Lists: Used in memory management and undo functionality in editors.
+- Stacks: Used in expression evaluation and backtracking algorithms.
+- Queues: Used in scheduling and buffering.
+- Trees: Used in databases and file systems.
+- Graphs: Used in social networks and routing algorithms.
+- Hash Tables: Used in caching and indexing.
+
+## Choosing the Right Data Structure
+- Consider the type of operations required.
+- Analyze time and space complexity.
+- Understand the nature of the data.
